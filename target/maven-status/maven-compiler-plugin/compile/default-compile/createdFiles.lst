@@ -1,0 +1,7 @@
+com\mycompany\crudmvc\CRUDMVC.class
+repository\PersonaDAO.class
+vista\Vista$1.class
+modelo\Persona.class
+Conexion\Conexion.class
+controlador\Controlador.class
+vista\Vista.class
